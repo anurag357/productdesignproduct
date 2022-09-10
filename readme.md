@@ -1,4 +1,3 @@
-![Name](https://img.shields.io/badge/Name-Vikas%20kumar%20Taliyan-brightgreen)
 
 ![Tech](https://img.shields.io/badge/Tech-CSS-yellowgreen)
 ![Tech](https://img.shields.io/badge/LCO-Iwritecode-orange)
@@ -18,7 +17,7 @@
 </tr>
 </table>
 ## Time Takem
-- 8 hours
+- 6 hours
 
 ### Skills Gained from this
 
